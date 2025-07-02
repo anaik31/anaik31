@@ -11,7 +11,7 @@ I'm always looking for new challenges that help me grow as a developer and colla
 - 🌎 Based in **Seneca, SC** – right by the beautiful **Lake Keowee**
 
 ## 🛠️ Tech Stack
-- **Languages**: JavaScript, Python, SQL  
+- **Languages**: JavaScript, Python
 - **Frontend**: HTML, CSS, React, Tailwind, MUI
 - **Backend**: Node.js, Express  
 - **Database**: MySQL
