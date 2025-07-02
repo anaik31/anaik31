@@ -22,6 +22,7 @@ I'm always looking for new challenges that help me grow as a developer and colla
 ### 
 
 _Expense Tracker - React.js, Express, and MySQL_
+
 _Rock, Paper, Scissors - HTML5, CSS, JavaScript_
 
 ## 📫 Let's Connect
