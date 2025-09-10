@@ -28,8 +28,9 @@ _Expense Tracker - React.js, Express, and MySQL_
 _Rock, Paper, Scissors - HTML5, CSS, JavaScript_
 
 ## 📫 Let's Connect
-- 🔗 [LinkedIn](https://www.linkedin.com/in/arpeet-naik)  
-- 💌 Email: arpeetnaik@gmail.com  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/arpeet-naik)
+- 🔗 [Personal Portfolio](https://www.anpersonal.com/portfolio)  
+- 💌 Email: arpeetnaik@gmail.com
 
 ---
 
